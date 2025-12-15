@@ -8,7 +8,9 @@
 
 Adaptive compute allocation for AI code agents achieving **100% success with 86% fewer tokens** than fixed N=10.
 
-**Tutorial:** For a step-by-step walkthrough, see [`notebooks/adaptive_swe_agent.ipynb`](notebooks/adaptive_swe_agent.ipynb) - simply run each cell in order.
+## Tutorial
+
+For a step-by-step walkthrough, see [`notebooks/adaptive_swe_agent.ipynb`](notebooks/adaptive_swe_agent.ipynb) - simply run each cell in order.
 
 ---
 
