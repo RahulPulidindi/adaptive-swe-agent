@@ -8,6 +8,8 @@
 
 Adaptive compute allocation for AI code agents achieving **100% success with 86% fewer tokens** than fixed N=10.
 
+**Tutorial:** For a step-by-step walkthrough, see [`notebooks/adaptive_swe_agent.ipynb`](notebooks/adaptive_swe_agent.ipynb) - simply run each cell in order.
+
 ---
 
 ## Results Summary
@@ -31,7 +33,7 @@ Adaptive compute allocation for AI code agents achieving **100% success with 86%
 
 ```bash
 # Install
-git clone https://github.com/yourusername/adaptive-swe-agent.git
+git clone https://github.com/RahulPulidindi/adaptive-swe-agent.git
 cd adaptive-swe-agent
 pip install -r requirements.txt
 pip install -e .
@@ -98,6 +100,7 @@ adaptive-swe-agent/
 ├── experiments/             # Evaluation scripts
 ├── tests/                   # Unit tests (pytest)
 ├── scripts/                 # Data prep & visualization
+├── notebooks/               # Tutorial notebook (adaptive_swe_agent.ipynb)
 └── requirements.txt
 ```
 
